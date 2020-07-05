@@ -5,9 +5,9 @@
 Join me at [CascadiaJS 2020](https://2020.cascadiajs.com/). Use discount code: *jim* for 20% off! [Get ticket](https://ti.to/event-loop/cascadiajs-2020/discount/jim)
 
 ## Work / Volunteering 
-- Engineering Manager, Digtal Store Experience, Nordstrom (We 're hiring!)
-- Community Liaison, CascadiaJS
-- @DwebSeattle co-organizer
+- [Engineering Manager](https://www.linkedin.com/in/jimycliu/), [Digtal Store Experience](https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Engineer-2---Digital-Store-Experience_R-202481), [Nordstrom (We 're hiring!)](https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers)
+- Community Liaison, [CascadiaJS](https://2020.cascadiajs.com/)
+- [@DwebSeattle](https://twitter.com/DwebSeattle) co-organizer
 
 ## Writing / Speaking
 - [I made a $500 mistake but you don’t have to.](https://dev.to/jimcalliu/i-made-a-500-mistake-but-you-don-t-have-to-1bke)
