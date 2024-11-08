@@ -4,9 +4,10 @@
 #BlackLivesMatter.
 
 
-## Work / Volunteering 
-- [Engineering Manager](https://www.linkedin.com/in/jimycliu/), [Discover, Research & Catalog](https://grnh.se/d9cf4a2d2us), [StockX (We 're hiring!)](https://grnh.se/d9cf4a2d2us)
-- Community Liaison, [CascadiaJS](https://2020.cascadiajs.com/)
+## Work / Volunteering
+- Tinkering on something new 🪄
+- [Angel Squad](https://ref.angelsquad.co/jimliu) Seattle Lead 🦄
+- [ELC Seattle](https://elc.community/home/clubs/seattle-kcr/overview) Chapter co-organizer
 - [@DwebSeattle](https://twitter.com/DwebSeattle) co-organizer
 
 ## Writing / Speaking
